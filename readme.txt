@@ -1,8 +1,6 @@
 Setup Instructions
 
-Download and Extract the Zip File
-
-Download the zip file containing the project and extract it to a folder on your computer.
+Clone the repository
 
 Make sure you have Node.js installed on your computer. You can download it from nodejs.org.
 
